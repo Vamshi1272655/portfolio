@@ -1,0 +1,20 @@
+.border{
+    border-top: 8px dotted #333;  
+    width: 100px;              
+    margin-bottom: 10px;  
+}
+
+.container{
+    margin: 10px 0px
+}
+
+.paper{
+    padding: 50px
+}
+
+
+.img{
+    width:100%;
+}
+
+ 
