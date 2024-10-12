@@ -45,7 +45,7 @@ const Home = () => {
         </Grid>
         <Typography variant="body1" align="center">
           Download Resume
-          <IconButton href="/vamshiResume.pdf" target="_blank">
+          <IconButton href="https://vamshi1272655.github.io/portfolio/vamshiResume.pdf" target="_blank">
             <FileDownloadIcon />
           </IconButton>
         </Typography>
